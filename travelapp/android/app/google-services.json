@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102710436628",
+    "project_id": "airplane-65a77",
+    "storage_bucket": "airplane-65a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102710436628:android:9f6d03f10cfebf5a795801",
+        "android_client_info": {
+          "package_name": "com.farhan.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102710436628-6s4b1l4ud70i5f5ecqshkaqpdicpla3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnXU2aXQ0-lp-sOHFgnLmXjUKR7B0eKN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102710436628-6s4b1l4ud70i5f5ecqshkaqpdicpla3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
